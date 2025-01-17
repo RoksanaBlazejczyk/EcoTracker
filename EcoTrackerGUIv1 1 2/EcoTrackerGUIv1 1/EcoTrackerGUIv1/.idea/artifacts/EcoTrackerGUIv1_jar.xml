@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EcoTrackerGUIv1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EcoTrackerGUIv1_jar</output-path>
+    <root id="archive" name="EcoTrackerGUIv1.jar">
+      <element id="module-output" name="EcoTrackerGUIv1" />
+    </root>
+  </artifact>
+</component>

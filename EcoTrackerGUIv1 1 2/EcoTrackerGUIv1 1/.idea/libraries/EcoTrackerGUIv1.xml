@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EcoTrackerGUIv1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EcoTrackerGUIv1/out/artifacts/EcoTrackerGUIv1_jar/EcoTrackerGUIv1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
